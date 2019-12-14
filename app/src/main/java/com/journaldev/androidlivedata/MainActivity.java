@@ -175,4 +175,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void GitCommitMethod()
+    {
+        String git_message = "Git Commit to Branch One";
+    }
+
 }
